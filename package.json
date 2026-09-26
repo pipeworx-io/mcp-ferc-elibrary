@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ferc-elibrary",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "FERC eLibrary MCP — the Federal Energy Regulatory Commission's public docket",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-fbf1a3fb1e1453e13bc79cef94c5e1f16a2deeecf6c8f653721f0085e2f631d2",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-51690121c8bd502d56606626742eee5abafa903ae09cfffaf5f8e0e1a67699d9",
+    "sourceCommit": "91681e9a4a137fa0051d58e32f38c64b6334af5c"
   }
 }
