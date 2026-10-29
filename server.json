@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/ferc-elibrary",
   "title": "Ferc Elibrary",
   "description": "FERC eLibrary MCP — the Federal Energy Regulatory Commission's public docket and document search…",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/ferc-elibrary",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-ferc-elibrary",
