@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ferc-elibrary",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "FERC eLibrary MCP — the Federal Energy Regulatory Commission's public docket and document search (elibrary.ferc.gov). Keyless JSON API, no bot wall.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "ferc-elibrary",
     "gatewaySlug": "ferc-elibrary",
-    "sourceHash": "v1-3cdad77976fbc87b9995bb141ce262fae494637c4c1cf08a1195bbf74207dfb3",
-    "sourceCommit": "bb047243cf27f32453103de186b8e6a8b6a1ce79"
+    "sourceHash": "v1-d5aa0093d1b1be7c470cb4963beff96bc86c71116d441f24322ce4e174bc5c70",
+    "sourceCommit": "d35e32c1ffe988e24d391dedb35666387fd2b3d6"
   }
 }
